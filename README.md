@@ -1,3 +1,3 @@
 # hello-world
 A new repository
-Payal here. I currently trying to learn GitHub. 
+Payal here. I am currently trying to learn GitHub. 
